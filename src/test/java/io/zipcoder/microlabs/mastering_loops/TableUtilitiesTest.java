@@ -65,5 +65,4 @@ public class TableUtilitiesTest {
         String actual = TableUtilities.getMultiplicationTable(20);
         Assert.assertEquals(expected, actual);
     }
-
 }
